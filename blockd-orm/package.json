@@ -1,0 +1,23 @@
+{
+  "name": "blockd-orm",
+  "version": "0.0.1",
+  "description": "Blocked ORM is a block chain backed ORM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anubhav-kumar/blockd-orm.git"
+  },
+  "author": "Anubhav Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anubhav-kumar/blockd-orm/issues"
+  },
+  "homepage": "https://github.com/anubhav-kumar/blockd-orm#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "typescript": "^4.8.4"
+  }
+}

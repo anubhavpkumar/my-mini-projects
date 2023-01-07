@@ -1,0 +1,10 @@
+export enum ERROR_CODES {
+    PARKING_FULL,
+    CAR_NOT_FOUND_IN_PARKING
+}
+
+export const PRICING_DETAILS = {
+    MINIMUM_HOURS: 2,
+    PRICE_IN_MINIMUM_HOUR: 10,
+    PRICE_PER_HOUR: 10
+}

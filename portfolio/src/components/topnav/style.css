@@ -1,0 +1,21 @@
+.topnav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.logo{
+    font-size: 36px;
+    font-style: italic;
+}
+
+.link {
+    font-size: 14px;
+    padding: 14px;
+}
+
+.flex-vertical-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

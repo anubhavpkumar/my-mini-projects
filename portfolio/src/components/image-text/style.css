@@ -1,0 +1,31 @@
+.image-text-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.image-text-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.image-text-image img {
+    width: 450px;
+    height: 450px;
+    border-radius: 50%;
+}
+
+.title {
+    font-size: 48px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.title, .subtitle {
+    margin: 10px
+}
+
+.subtitle {
+    text-align: left;
+}
